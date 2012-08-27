@@ -18,6 +18,7 @@ Annoyances
 * `\b\w+\*+\w\b` — Tweets censored for no f**king reason ([@jordanekay](http://twitter.com/jordanekay))
 * `(?i)checked.*in` — I checked in at... ([@iconaholic](http://twitter.com/iconaholic)) 
 * `\n{3,}` — Tweets with 3 or more line breaks. ([@justin](http://twitter.com/justin))
+*  `^(?i)(@your_name)\s*$` - Enable `Mute Mentions` to hide any empty mention or `^@\s*$` to mute all empty mentions. ([@khaled](http://twitter.com/khaled))
 
 Irrelevance
 -----------
